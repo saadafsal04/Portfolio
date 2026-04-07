@@ -1,1 +1,52 @@
+---------------------------------------------
+HEADER
+---------------------------------------------
+[Title] Saad's Portfolio
+[Tagline] Early-stage developer focused on backend fundamentals
 
+---------------------------------------------
+QUICK HIGHLIGHTS
+---------------------------------------------
+- B.Sc. Electronics & Computer Science student
+- Proficient in Python, MySQL, Git/GitHub
+- Exploring backend development (Django REST, ASP.NET)
+- Building projects to strengthen fundamentals
+
+---------------------------------------------
+PROJECTS
+---------------------------------------------
+[Section Title] Featured Project
+- Portfolio Website (In Progress)
+  - Built using HTML
+  - Hosted via GitHub Pages
+  - Frontend-focused (for now)
+
+[Section Title] Early Work
+- ATM Simulation (CLI Based) [Tech: Python]
+- Hospital Management System (CLI + MySQL) [Tech: Python, MySQL]
+
+---------------------------------------------
+SKILLS
+---------------------------------------------
+[Column 1] Proficient
+- Python
+- MySQL
+- Git & GitHub
+
+[Column 2] Learning
+- Django REST Framework
+- ASP.NET
+
+[Tools]
+- Postman (API testing)
+
+---------------------------------------------
+ABOUT ME
+---------------------------------------------
+Short bio: Pursuing a B.Sc in Electronics and Computer Science
+Interested in system design and problem-solving
+
+---------------------------------------------
+FOOTER / NOTES
+---------------------------------------------
+"This repository is a work in progress and will continue to grow."
