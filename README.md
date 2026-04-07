@@ -45,7 +45,7 @@ A personal portfolio website to showcase my work and track my progress.
 - Dynamic project rendering  
 - Better structure and scalability  
 
-🔗 [View Live Portfolio](https://saadafsal04.github.io/portfolio)  
+🔗 [View Live Portfolio](https://saadafsal04.github.io/Portfolio)  
 📌 Note: This project is actively being improved as I learn and build.
 
 ---
